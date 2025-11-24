@@ -23,4 +23,4 @@ I'm targeting roles such as:
 
 ## 📫 Contact
 - Email: JamikaC13@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/jamikac?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- LinkedIn: www.linkedin.com/in/jamikac
