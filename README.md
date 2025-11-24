@@ -17,8 +17,11 @@ I'm targeting roles such as:
 - Technical or Product Analyst
 
 ## 📂 Featured Projects
-- [COMING SOON] (link-here) – Analyzed XYZ dataset to identify trends in ...
-- [COMING SOON] (link-here) – Built dashboard to track ...
+### 📸 Camera Defect Analysis (Manufacturing Quality Case Study)
+- ***Skills:*** Power BI, Root Cause Analysis, Pareto Charts, Documentation
+- ***Summary:*** A multi-phase analytics project analyzing welding and assembly defects using Pareto charts, Power BI, and root-cause (fishbone) analysis. Includes defect prioritization (80/20), IPC-A-610E compliance insights, and structured recommendations.
+
+👉 **View Project:** https://github.com/JamikaC13/camera-defect-analysis
 
 ## 📫 Contact
 - Email: JamikaC13@gmail.com
